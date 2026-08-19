@@ -26,13 +26,9 @@
 
 ## 🔥 My statistics 🔥
 
+## 🔥 My statistics 🔥
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JoacoRy20&show_icons=true&theme=dark"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoacoRy20&layout=compact&theme=dark"
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoacoRy20&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoacoRy20&layout=compact&theme=dark" />
 </p>
