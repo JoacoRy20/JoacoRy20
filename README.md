@@ -7,7 +7,11 @@
 
 ---
 
-## 🛠️ Tecnologías y Lenguajes
+## 🛠️ Tecnologías y Lenguajes## 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,npm,vite,nodejs,cs,dotnet,git,github,mysql" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,6 +27,12 @@
 ## 🔥 My statistics 🔥
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoacoRy20&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoacoRy20&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JoacoRy20&show_icons=true&theme=dark"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoacoRy20&layout=compact&theme=dark"
+    height="180"
+  />
 </p>
