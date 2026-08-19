@@ -24,11 +24,10 @@
 
 ---
 
-## 🔥 My statistics 🔥
+<h2 align="center">🔥 My statistics 🔥</h2>
 
-## 🔥 My statistics 🔥
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoacoRy20&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoacoRy20&layout=compact&theme=dark" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=JoacoRy20&show_icons=true&theme=tokyonight&hide_border=true" width="450">
+
+</div>
