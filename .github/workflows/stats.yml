@@ -1,4 +1,4 @@
-name: GitHub Stats
+name: Generate GitHub Stats
 
 on:
   schedule:
@@ -10,12 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
       - name: Generate stats
-        uses: anuraghazra/github-readme-stats@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: cicirello/user-statistician@v2
         with:
-          username: JoacoRy20
+          user: JoacoRy20
