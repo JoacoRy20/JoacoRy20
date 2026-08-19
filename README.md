@@ -22,3 +22,9 @@
 
 ## 📬 Contacto y Proyectos
 Podés explorar todos mis repositorios y trabajos directamente desde las solapas de arriba en este perfil.
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoacoRy20&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
