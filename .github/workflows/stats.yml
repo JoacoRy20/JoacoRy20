@@ -1,14 +1,21 @@
 name: Generate GitHub Stats
 
 on:
+  schedule:
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
   stats:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - name: Generate statistics
-        uses: cicirello/user-statistician@master
-        with:
-          username: JoacoRy20
+      - uses: actions/checkout@v6
+
+      - name: Generate the user stats image
+        uses: cicirello/user-statistician@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
